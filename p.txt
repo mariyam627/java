@@ -1,0 +1,13 @@
+reserve the value
+ v is =
+
+string me plus kre to usko concatenation khety ha
+
+int or string sath nh kr sakty concatenate
+
+a = ((12 - 4) / (2 + 9) * 5);
+deduction of the deductce
+
+python me greater then less than nh hota
+
+keywords are also illegal
